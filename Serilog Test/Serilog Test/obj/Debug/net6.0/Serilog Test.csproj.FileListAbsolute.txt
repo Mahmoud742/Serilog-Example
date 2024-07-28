@@ -1,0 +1,57 @@
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\appsettings.json
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog Test.exe
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog Test.deps.json
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog Test.runtimeconfig.json
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog Test.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog Test.pdb
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog.AspNetCore.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Serilog.Sinks.File.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\Serilog Test.csproj.AssemblyReference.cache
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\Serilog Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\Serilog Test.AssemblyInfoInputs.cache
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\Serilog Test.AssemblyInfo.cs
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\Serilog Test.csproj.CoreCompileInputs.cache
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\Serilog Test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\Serilog Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\staticwebassets\msbuild.Serilog Test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\staticwebassets\msbuild.build.Serilog Test.props
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Serilog Test.props
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Serilog Test.props
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\scopedcss\bundle\Serilog Test.styles.css
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\Serilog .88ED8446.Up2Date
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\Serilog Test.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\refint\Serilog Test.dll
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\Serilog Test.pdb
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\Serilog Test.genruntimeconfig.cache
+C:\Users\mahmoud.hossam\source\repos\Serilog Test\Serilog Test\obj\Debug\net6.0\ref\Serilog Test.dll

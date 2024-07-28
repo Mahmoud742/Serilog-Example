@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GKxEFr19ctEsnjraBbYIrJqYbumsbFmtxBGsA4nMmTg=",
+  "Source": "Serilog Test",
+  "BasePath": "_content/Serilog Test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
